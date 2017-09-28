@@ -1,4 +1,4 @@
-//: Playground - noun: a place where people can play
+//: [Previous](Table%20of%20Content)
 
 import UIKit
 
@@ -24,21 +24,21 @@ struct Circle {
 
 struct Geometry {
   func area(_ shape: Any) -> Double {
-      if shape is Square {
-        print("Shape is Square")
-        let s = shape as! Square
-        return s.side * s.side
-      } else if shape is Rectangle {
-        print("Shape is Rectangle")
-        let r = shape as! Rectangle
-        return r.height * r.width
-      } else if shape is Circle {
-        print("Shape is Circle")
-        let c = shape as! Circle
-        return c.radius * c.radius * .pi
-      } else {
-        print("Unknow object")
-        return 0
+    if shape is Square {
+      print("Shape is Square")
+      let s = shape as! Square
+      return s.side * s.side
+    } else if shape is Rectangle {
+      print("Shape is Rectangle")
+      let r = shape as! Rectangle
+      return r.height * r.width
+    } else if shape is Circle {
+      print("Shape is Circle")
+      let c = shape as! Circle
+      return c.radius * c.radius * .pi
+    } else {
+      print("Unknow object")
+      return 0
     }
   }
 }
@@ -55,8 +55,4 @@ geometry.area(rectangle)
 geometry.area(circle)
 geometry.area(unknowObject)
 
-
-
-
-
-// Data structure
+//: [Next](Object%20-%20Shapes%20on%20Protocol)
