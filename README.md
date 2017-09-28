@@ -1,6 +1,7 @@
-#  This repository contains a list of projects of my blog.
+#  Objects and Data Structures in Swift.
 
-To find the desired project please select an appropriate branch.
+Thoughts how to define/use Objects and Data Structures 
 
+Please read full blog post [here]() or [here]()
 
-Find me on twitter @minikin
+Let me know  what do you think @minikin
