@@ -2,6 +2,8 @@
 
 __DATE: 24.05.2017__
 
+__Technologies: Swift, iOS__
+
 From time to time I need to send Language ISO (or something like this) to a server as a parameter. Here is a little function which can handle this:
 
 ```swift
