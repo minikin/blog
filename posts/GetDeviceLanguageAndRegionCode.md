@@ -1,8 +1,8 @@
 # Get Device Language and Region Code
 
-__Date: 24.05.2017__
+__Date:__ 24.05.2017
 
-__Technologies: Swift, iOS__
+__Technologies:__ Swift, iOS
 
 From time to time I need to send Language ISO (or something like this) to a server as a parameter. Here is a little function which can handle this:
 
