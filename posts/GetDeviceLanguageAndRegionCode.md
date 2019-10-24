@@ -1,8 +1,8 @@
 # Get Device Language and Region Code
 
-__Date:__ 24.05.2017
+**Date:** 24.05.2017
 
-__Technologies:__ Swift, iOS
+**Technologies:** Swift, iOS
 
 From time to time I need to send Language ISO (or something like this) to a server as a parameter. Here is a little function which can handle this:
 
@@ -15,5 +15,4 @@ func getLanguageISO() -> String {
     }
     return languageCode + "_" + regionCode
   }
-
 ```

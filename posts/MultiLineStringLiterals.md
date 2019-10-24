@@ -1,6 +1,8 @@
-# Get Device Language and Region Code
+# Multi-Line String Literals
 
-## DATE: 02.06.2017
+**Date:** 24.05.2017
+
+**Technologies:** Swift, iOS
 
 Only a few days left before WWDC 2017.
 I hope that we’ll see a lot of great and useful stuff, besides Swift 4, f
