@@ -1,6 +1,6 @@
 # Get Device Language and Region Code
 
-__DATE: 24.05.2017__
+__Date: 24.05.2017__
 
 __Technologies: Swift, iOS__
 
