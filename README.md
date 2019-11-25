@@ -1,6 +1,4 @@
-# This repository contains a list of projects of my blog
-
-To find the desired project please select an appropriate branch.
+# My personal blog
 
 [Not a nonsense example of a web application with Flutter and Dart](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
 
