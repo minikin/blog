@@ -13,8 +13,7 @@ Back in that days I only had one midi device LXR Digital Drum Synth so that’s 
 
 To continue you have to choices:
 
-The first one is just to watch short video demonstration to check how it works.
-
+The first one is just to [watch short video demonstration](https://vimeo.com/222174271) to check how it works.
 
 The other one is going deeper. 
 [Visit GitHub page](https://github.com/minikin/VoiceControlledDrumMachine) of the project and try to make it by yourself. 
