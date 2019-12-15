@@ -1,16 +1,16 @@
 # My blog
 
-[Not a nonsense example of a web application with Flutter and Dart](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
+[Not a nonsense example of a web application with Flutter and Dart]()
 
-[Benchmark of Swift extensions vs methods: Swift 4.1](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
+[Benchmark of Swift extensions vs methods: Swift 4.1]()
 
-[Host in-house private frameworks with CocoaPods](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
+[Host in-house private frameworks with CocoaPods]()
 
-[UIFont/NSFont extension to handle custom fonts](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
+[UIFont/NSFont extension to handle custom fonts]()
 
-[Sketch Cache Cleaner macOS App](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
+[Sketch Cache Cleaner macOS App](https://github.com/minikin/blog/blob/develop/posts/SketchCacheCleanerMacOSApp.md)
 
-[Voice Controlled Drum Machine](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
+[Voice Controlled Drum Machine]()
 
 [Multi-Line String Literals](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
 
