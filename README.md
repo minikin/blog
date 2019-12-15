@@ -10,7 +10,7 @@
 
 [Sketch Cache Cleaner macOS App](https://github.com/minikin/blog/blob/develop/posts/SketchCacheCleanerMacOSApp.md)
 
-[Voice Controlled Drum Machine](https://github.com/minikin/blog/develop/posts/VoiceControlledDrumMachine.md)
+[Voice Controlled Drum Machine](https://github.com/minikin/blog/blob/develop/posts/VoiceControlledDrumMachine.md)
 
 [Multi-Line String Literals](https://github.com/minikin/blog/blob/develop/posts/MultiLineStringLiterals.md)
 
